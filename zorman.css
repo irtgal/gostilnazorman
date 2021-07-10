@@ -78,6 +78,7 @@ body {
 }
 #menu .link {
     -webkit-animation: fadein 1.5s;
+    width: 80%;
 }
 
 
