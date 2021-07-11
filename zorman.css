@@ -10,6 +10,9 @@
 body {
     background-color: #292b2c;
     color: white;
+
+    padding: 0 25%;
+
 }
 
 .nav-bar {
@@ -92,6 +95,7 @@ body {
 .section {
     position: relative;
     margin: 0 15px 50px 15px;
+
 }
 .section:last-of-type {
     margin-bottom: 100px;
@@ -222,3 +226,10 @@ body {
 .text-blue {
     color: #1d7595;
 }
+
+
+@media only screen and (max-width: 900px) {
+    body {
+        padding: 0;
+    }
+  }
