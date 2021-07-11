@@ -1,8 +1,3 @@
-
- @font-face { 
-     font-family: "ToppoRegular" ;
-     src: url('fonts/toppo_regular.otf'); 
-    } 
 @font-face { 
     font-family: "BobbinBold" ;
     src: url('fonts/bobbin_bold.otf'); 
@@ -126,6 +121,7 @@ body {
     align-items: center;
     height: 30px;
     width: 100%;
+    color: #292b2c;
 }
 
 
