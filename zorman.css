@@ -144,6 +144,9 @@ body {
 #spirit-drinks .section-title, #spirit-drinks .item-price {
     color: #D8826F;
 }
+#meals .section-title, #meals .item-price {
+    color: #6f8a5c;
+}
 #sale .section-title, #sale .item-price {
     color: #2596be ;
 }
@@ -182,6 +185,12 @@ body {
 .sale-img {
     position: absolute;
     right: 30px;
+    opacity: 0.3;    
+}
+.meals-img {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
     opacity: 0.3;    
 }
 /* ANIMATIONS */
