@@ -155,9 +155,9 @@ body {
 /* IMAGES STYLES */
 .alcohol-free-img {
     position: absolute;
-    top: 100px;
-    right: 0;
-    opacity: 0.3;
+    top: 120px;
+    right: -20px;
+    opacity: 0.2;
 }
 .warm-drinks-img {
     position: absolute;
