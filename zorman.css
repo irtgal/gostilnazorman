@@ -1,10 +1,12 @@
 @font-face { 
     font-family: "BobbinBold" ;
     src: url('fonts/bobbin_bold.woff'); 
+    font-display: swap;
     } 
 @font-face { 
     font-family: "CollectEmAll" ;
     src: url('fonts/collect_em_all_bold.woff'); 
+    font-display: swap;
     } 
 
 body {
