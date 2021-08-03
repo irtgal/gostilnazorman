@@ -185,6 +185,7 @@ body {
 .sale-img {
     position: absolute;
     right: 30px;
+    top: 10px;
     opacity: 0.3;    
 }
 .meals-img {
