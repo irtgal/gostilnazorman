@@ -16,3 +16,8 @@ $(".link").click(function(){
     }, 1000);
     
 })
+
+// register visit
+fetch("https://radiating-vehicle.000webhostapp.com/increment.php", {mode: 'no-cors'}).then(function(response) {
+    return response.json();
+  })
