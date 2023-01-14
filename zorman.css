@@ -9,7 +9,9 @@
     font-display: auto;
     } 
 
+
 body {
+    font-family: "BobbinBold";
     background-color: #292b2c;
     color: white;
 
@@ -48,6 +50,17 @@ body {
     width: 20px;
 }
 
+
+#main-title {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#title {
+    
+}
 /* MENU */
 #menu {
     display: none;
@@ -118,16 +131,16 @@ body {
 }
 
 #footer {
-    background-color: #888e91;
+    color: #888e91;
     text-align: center;
     font-family: "CollectEmAll";
+    font-weight: bold;
     font-size: 8px;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 30px;
     width: 100%;
-    color: #292b2c;
 }
 
 
@@ -251,3 +264,15 @@ body {
         padding-top: 10px;
     }
   }
+
+
+h1 {
+    margin: 20px 0;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+    margin: 0;
+    text-align: center;
+}
